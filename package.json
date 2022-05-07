@@ -1,0 +1,15 @@
+{
+  "name": "fiber",
+  "version": "1.0.0",
+  "description": "Fiber Landing Page",
+  "main": "dist/js/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Efosa Evbowe",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
